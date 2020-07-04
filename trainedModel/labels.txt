@@ -1,0 +1,8 @@
+_silence_
+_unknown_
+yes
+no
+one
+two
+three
+four
